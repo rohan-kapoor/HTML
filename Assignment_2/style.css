@@ -1,0 +1,21 @@
+body{
+    padding-inline: 100px;padding-top: 50px;
+}
+#header{
+    background-color: rgb(150, 248, 248);
+}
+.image{
+    float: left;padding: 10px;
+}
+.name{
+    font-size: x-large;font: bold;font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;padding-bottom: 8px;padding-top: 6px;padding-left: 7px;color: maroon;
+}
+fieldset{
+    border-radius: 15px;border-color: maroon;border-width: 3px;
+}
+ul{
+    list-style-type: none; display: inline-flex;
+}
+a{
+    text-decoration: none;
+}
